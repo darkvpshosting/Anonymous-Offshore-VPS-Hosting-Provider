@@ -1,2 +1,3 @@
-# Anonymous-Offshore-VPS-Hosting-Provider
-Anonymous Offshore VPS Hosting Provider with own hardware,
+Anonymous & Offshore VPS Provider - darkvps.pro
+
+<a href ="https://darkvps.pro">darkvps.pro</a>
